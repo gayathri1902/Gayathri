@@ -1,9 +1,9 @@
 
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Khushi-red)]()
-[![Linkedin Badge](https://img.shields.io/badge/-Khushi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi-kashyap-4373261b2/)](https://www.linkedin.com/in/khushi-kashyap-4373261b2/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Khushi-green)](https://khushikashyap-web.github.io/MyPortfolio/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Khushi-yellow)](https://stackoverflow.com/users/19369127/khushi-kashyap-)
+[![Linkedin Badge](https://img.shields.io/badge/-Khushi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi-kashyap-4373261b2/)]()
+[![Website Badge](https://img.shields.io/badge/WebSite-Khushi-green)]()
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Khushi-yellow)](-)
 
 
 
